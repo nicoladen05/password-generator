@@ -9,3 +9,5 @@ pip install -r requierements.txt
 ```
 python3 main.py
 ```
+
+Download .exe or .zip [here](https://github.com/nicoladen05/password-generator/releases).
