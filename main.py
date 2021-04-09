@@ -1,9 +1,7 @@
 from random import choice
 import tkinter as tk
+import base64
 from functools import partial
-
-
-
 
 class Generator:
 
@@ -80,7 +78,7 @@ def copy():
 
 
 win = tk.Tk()
-win.title("Password Generator")
+win.title('Password Generator')
 win.geometry('250x250')
 win.resizable(True, True)
 win.configure(bg='#f9f6ec')
